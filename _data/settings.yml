@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: AJ's Space
+  site_tagline: Getting ready for a Blog
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -17,10 +17,12 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Empty'
+      url: '/empty'
 
 grid_settings:
-  overlay_opacity: 0.8
-  grid_spacing: 20
+  overlay_opacity: 0.4 //default 0.8
+  grid_spacing: 20 //default 20
 
 contact_settings:
   form_action: ''
