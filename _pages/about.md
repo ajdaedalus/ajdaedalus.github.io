@@ -1,8 +1,10 @@
 ---
-title: Column 1
-column 2: Column 2 content
+title: Contact
+subtitle: Index comes with a built-in contact form, that's free and easy to set up.
 description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/demo/demo-landscape.jpg
+
+## table displayed is not visible on webpage
 ---
 
 ![](/images/demo/demo-landscape.jpg)
