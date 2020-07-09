@@ -21,8 +21,8 @@ menu_settings:
       url: '/empty'
 
 grid_settings:
-  overlay_opacity: 0.4 //default 0.8
-  grid_spacing: 20 //default 20
+  overlay_opacity: 0.4 #default 0.8
+  grid_spacing: 20 #default 20
 
 contact_settings:
   form_action: ''
