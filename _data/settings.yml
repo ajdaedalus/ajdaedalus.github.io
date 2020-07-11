@@ -19,7 +19,7 @@ menu_settings:
       url: '/contact'
     - title: 'Empty'
       url: '/empty'
-    - title: 'Settings.yml-menu'
+    - title: 'testing'
       url: '/test'
 
 grid_settings:
