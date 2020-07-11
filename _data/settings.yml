@@ -19,6 +19,8 @@ menu_settings:
       url: '/contact'
     - title: 'Empty'
       url: '/empty'
+    - title: 'Settings.yml-menu'
+      url: '/test'
 
 grid_settings:
   overlay_opacity: 0.4 #default 0.8
@@ -33,7 +35,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/adrian.ajames/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -60,7 +62,7 @@ social_settings:
 
 color_settings:
   background_color: '#ffffff'
-  background_alt_color: '#a3185c'
+  background_alt_color: '#f5f5f5'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
