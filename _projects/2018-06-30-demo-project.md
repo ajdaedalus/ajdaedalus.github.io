@@ -1,6 +1,6 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Demo Project Title'
+subtitle: 'This is a demo- checking how much text you can put here, an you have a giant description that wraps across numerous lines? If so thats pretty great'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
